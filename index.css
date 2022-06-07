@@ -1,0 +1,36 @@
+body{
+  background-color: purple;
+}
+
+.input{
+  background-color: blue;
+  padding: 10px;
+  margin-top: 25px;
+  border-radius:30px;
+  border: 0.5px solid white;
+}
+
+label{
+  color: white;
+}
+
+
+.kiss{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-top: 25px;
+}
+
+.back{
+  color: white;
+}
+button{
+  color: white;
+  background-color: black;
+  border-radius: 10px;
+}
+.bib{
+  margin-bottom: 10px;
+}

@@ -1,0 +1,33 @@
+body{
+  background-color: blue;
+}
+ .come{
+background-color: purple;
+padding:30px;
+margin-top:25px;
+border-radius:70px;
+border: 0.6px solid white;
+}
+label{
+  color: white;
+}
+.bye{
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-top: 25px;
+}
+.good{
+  color: white;
+}
+button{
+  color: white;
+  background-color: black;
+  border-radius: 15px;
+}
+.going{
+  margin-bottom: 10px;
+}
+
+  2
